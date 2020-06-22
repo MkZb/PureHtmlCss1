@@ -557,7 +557,8 @@ a.active-feature {
     color: #d5d5d5;
 }
 
-.contact-info h3, p {
+.contact-info h3,
+.contact-info p {
     padding-left: 15%;
 }
 
